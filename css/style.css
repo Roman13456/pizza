@@ -1,0 +1,37 @@
+.central_block1{
+    max-width: 1000px; margin: auto;
+}
+.central_block{
+    max-width: 1250px; margin: auto;
+}
+h2{
+    background: brown; color: white; padding: 5px 10px;
+}
+iframe{
+    padding: 0 100px;
+}
+article p{
+    padding: 0 100px ;
+}
+
+header{
+    position: absolute; width: 100%;
+}
+section{
+    padding-top: 800px;
+}
+.unique{
+    display: flex; align-items: center;
+}
+.unique p{
+    background: brown; padding: 15px 15px;
+}
+.unique img{
+    margin-left: -190px;
+}
+body{
+    background: url("../images/title.png") no-repeat; background-size: contain;
+}
+article{
+    background: white; position: relative; top: -650px; padding: 0 0 150px;
+}
